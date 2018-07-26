@@ -1,0 +1,6 @@
+Find out if given A integer is power of 2. If yes print `Yes`, otherwise print `No`.
+
+A integer will be given on first line.
+
+E.G:
+8

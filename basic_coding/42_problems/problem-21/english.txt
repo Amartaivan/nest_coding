@@ -1,0 +1,6 @@
+Find given year is leap or not.
+
+A year will be given on a line
+
+E.G:
+2017

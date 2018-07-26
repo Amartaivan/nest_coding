@@ -1,0 +1,7 @@
+Tell if given integer A dividing by B without remainder.
+
+Integers will be on separate lines.
+
+E.G:
+5
+2

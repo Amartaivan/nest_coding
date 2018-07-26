@@ -1,0 +1,11 @@
+Given A[N] array, print sum of odd elements its index is even.
+
+N will be first line
+Following lines will be values of elements.
+
+E.G:
+4
+5
+0
+2
+3

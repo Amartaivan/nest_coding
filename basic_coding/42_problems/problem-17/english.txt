@@ -1,0 +1,8 @@
+Find sum of range from M to N.
+
+First line will be M
+Second line wille be N
+
+E.G:
+1
+100

@@ -1,0 +1,1 @@
+Print increasing ordered numbers which has 3 digits that all different.

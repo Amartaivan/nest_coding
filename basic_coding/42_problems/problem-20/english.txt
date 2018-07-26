@@ -1,0 +1,6 @@
+Check if given integer A is prime number.
+
+A Integer will be on line.
+
+E.G:
+20

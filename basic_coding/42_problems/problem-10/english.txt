@@ -1,0 +1,8 @@
+Find median number of given integers of A, B and C.
+
+Integers will be on separate lines.
+
+E.G:
+2
+5
+3

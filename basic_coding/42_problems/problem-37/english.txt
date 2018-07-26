@@ -1,0 +1,8 @@
+Given 2 chess coordination. If 2 fields are same color print `Yes`, otherwise print `No`.
+
+First line is first fields coordination
+Following line is second fields coordination.
+
+E.G:
+B3
+A6

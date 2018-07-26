@@ -1,0 +1,16 @@
+Given array A[N] find integer that equal to K. You should print index of first occurance, if given K integer not found print `NO`.
+
+K will be on first line
+N will be on second line
+Following lines will be values of elements.
+
+E.G:
+8
+5
+1
+2
+3
+4
+6
+7
+9

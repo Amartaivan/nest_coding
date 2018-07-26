@@ -1,0 +1,6 @@
+Check if given integer A is even or odd.
+
+Integer will be on line.
+
+E.G:
+2

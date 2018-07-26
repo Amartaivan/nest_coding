@@ -1,0 +1,7 @@
+Given integers A, B. Find Greatest common divisor.
+
+Integers will be on lines.
+
+E.G:
+54
+24

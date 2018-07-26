@@ -1,0 +1,8 @@
+Given range of M - N integers count integers that can be divided by 4 but cannot divided by 16.
+
+First line M
+Second line N
+
+E.G:
+1
+100

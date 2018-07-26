@@ -1,0 +1,8 @@
+Sort given integer of A, B and c.
+
+Integers will be on lines.
+
+E.G:
+2
+5
+3

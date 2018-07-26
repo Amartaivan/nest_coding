@@ -1,0 +1,9 @@
+Implement sqrt(int X). Compute and return the square root of X.
+
+X is guaranteed to be a non-negative integer.
+
+
+X will on single line.
+
+E.G:
+16

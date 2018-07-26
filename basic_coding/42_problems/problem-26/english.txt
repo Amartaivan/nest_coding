@@ -1,0 +1,6 @@
+Given A integer, find a sum of its digits.
+
+A integer will be on line.
+
+E.G:
+213
