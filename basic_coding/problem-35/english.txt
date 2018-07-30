@@ -1,4 +1,4 @@
-Given A[N] integer array, find index of 2 elements that difference is maximum. 
+Given A[N] integer array, find the indexes of 2 elements which has got maximum difference. 
 
 N will be first line
 Following lines will be values of elements.

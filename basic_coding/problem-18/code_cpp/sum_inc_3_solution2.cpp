@@ -20,7 +20,7 @@ int main(){
     while(m % 3 != 0){
         m ++;
     }
-    while(m % 3 != 0){
+    while(n % 3 != 0){
         n --;
     }
 

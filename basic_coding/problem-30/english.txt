@@ -1,4 +1,4 @@
-N day of bitcoin price has given. An i-th day and i + 1, i + 2 ... i + k bitcoin price was same. Find out longest streak days and how much price was.
+N day of bitcoin price has given. If i-th day, (i+1)-th day,  ... ,(i+k)-th day bitcoin price was same. Find out longest streak days and how much price was.
 
 N will be first line
 Following lines will be values of elements.

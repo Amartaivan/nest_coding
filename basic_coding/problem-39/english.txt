@@ -1,4 +1,4 @@
-Given array A[N], read increasing order of sequence till same value neighbors occur. Print how many numbers are your program read. 
+Given array A[N], read sequence till same value neighbors occur. Print how many numbers are your program read. 
 
 N will be first line
 Following lines will be values of elements.

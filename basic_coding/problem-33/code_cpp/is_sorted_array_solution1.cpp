@@ -27,7 +27,7 @@ int main(){
 
     prev = a[0];
     for (int i = 1; i < n && sorted; i++){
-        if (prev > a[i]) {
+        if (prev < a[i]) {
             sorted = false;
         }
         prev = a[i];

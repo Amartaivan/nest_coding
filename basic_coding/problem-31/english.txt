@@ -1,4 +1,4 @@
-Given array A[N] find M-th maximum integer.
+Given array A[N] find index of M-th maximum integer.
 
 M will be on first line
 N will be on second line

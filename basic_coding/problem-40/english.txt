@@ -1,4 +1,4 @@
-Given N and K integers, from 1-N numbers count the sum of numbers digits can divided by K. 
+Given N and K integers, from range of 1 to N count the numbers that sum of digits are divisible by K. 
 
 N and K will on separate lines
 

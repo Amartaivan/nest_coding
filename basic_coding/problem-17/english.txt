@@ -1,4 +1,4 @@
-Find sum of range from M to N.
+Find product of range from M to N.
 
 First line will be M
 Second line wille be N

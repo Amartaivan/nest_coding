@@ -1,4 +1,4 @@
-Find sum of given integer range of M and N.
+Find sum of even numbers in given integer range of M and N.
 
 Integers will be on separate lines.
 

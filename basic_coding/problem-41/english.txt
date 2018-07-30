@@ -1,1 +1,2 @@
-Print increasing ordered numbers which has 3 digits that all different.
+Print all 3 digit numbers which doesn't contain any duplicate digits
+in increasing order

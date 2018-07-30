@@ -1,4 +1,4 @@
-Find sum of given integers that can be divided by 3 range from M to N.
+Find sum of numbers that can be divided by 3 in given integers range from M to N.
 
 First line M
 Second line N

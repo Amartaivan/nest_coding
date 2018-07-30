@@ -53,7 +53,7 @@ int main(){
     } else
         count ++;
 
-    product = negatives > 0 product : 0;
+    product = negatives > 0 ? product : 0;
 
     cout << "Sum of numbers that more than 0 : " << sum << endl;
     cout << "Count of numbers that equal to 0 : " << count << endl;

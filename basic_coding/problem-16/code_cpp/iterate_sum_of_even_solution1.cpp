@@ -17,7 +17,7 @@ int main(){
     test_file >> m;
     test_file >> n;
     test_file.close();
-
+    if (m % 2 == 1) m++;
     for(int i = m; i <= n; i += 2){
         sum += i;
     }
